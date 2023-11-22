@@ -1,8 +1,8 @@
 a {
   color: #FFFFFF;
-  padding: 20px;
+  padding: 15px 20px;
   font-size: 1.1rem;
-  transition: 0.3s;
+  transition: 0.2s;
   font-weight: bold;
   border-radius: 30px;
   text-decoration: none;
@@ -10,7 +10,7 @@ a {
 }
 
 a:hover {
-  background-color: #545454;
+  background-color: #484848;
 }
 
 body {
