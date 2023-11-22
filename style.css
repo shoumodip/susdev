@@ -1,18 +1,22 @@
 a {
-  color: #008080;
+  color: #FFFFFF;
+  padding: 20px;
+  font-size: 1.1rem;
+  transition: 0.3s;
+  font-weight: bold;
+  border-radius: 30px;
+  text-decoration: none;
+  background-color: #323232;
 }
 
 a:hover {
-  color: #808000;
+  background-color: #545454;
 }
 
 body {
-  color: #333333;
+  color: #1D1E20;
   margin: 40px;
   font-size: 1.5rem;
-  background-color: #D0EAE2;
-}
-
-h1, h2 {
-  color: #228B22;
+  font-family: DM Sans;
+  background-color: #DDD0C8;
 }
